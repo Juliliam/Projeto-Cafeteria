@@ -1,0 +1,21 @@
+
+
+
+  @media(min-width: 1024px) {
+    .carousel-inner,.item.active {
+        overflow: hidden;
+        width: 700px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .carousel-inner {
+        width: 40%;
+    }
+
+    #carouselExampleFade{
+        width: 700px;
+        height: 400px;
+    }
+
+}
